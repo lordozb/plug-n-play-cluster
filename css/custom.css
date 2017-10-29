@@ -3,14 +3,14 @@ body{
 }
 nav {
 	background-color:#0f0f59!important;
-	color:white!important;
+	color:#ffffff!important;
 }
 nav li a {
-	color:white!important;
+	color:#ffffff!important;
 }
 
 .navbar-default .navbar-brand {
-	color: white;
+	color: #ffffff;
 	font-size: 15px;
 }
 .navbar-default .navbar-brand:hover{
